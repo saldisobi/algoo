@@ -1,4 +1,4 @@
-package array
+package array.problems
 
 class MaxArea {
     fun maxArea(height: IntArray): Int {

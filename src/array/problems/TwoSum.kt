@@ -1,4 +1,4 @@
-package array
+package array.problems
 
 class TwoSum {
     fun twoSum(nums: IntArray, target: Int): IntArray {

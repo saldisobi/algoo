@@ -1,4 +1,4 @@
-package graph
+package graph.problems
 
 class Islands {
 
